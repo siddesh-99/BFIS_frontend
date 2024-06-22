@@ -1,0 +1,55 @@
+/* App.css */
+
+.App {
+    text-align: center;
+  }
+  
+  nav {
+    float: right;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .body-content {
+    margin-top: 50px;
+  }
+  
+  .animated-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .footer-info {
+    text-align: left;
+  }
+  
+  .social-links a {
+    margin-right: 10px;
+  }
+  

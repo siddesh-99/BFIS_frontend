@@ -1,0 +1,55 @@
+/* Career.css */
+.career-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .career-header {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .career-section {
+    margin: 40px 0;
+  }
+  
+  .career-section h2 {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .career-section p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .job-opening {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-opening h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .job-opening ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .career-footer {
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    margin-top: 40px;
+    color: #aaa;
+  }
+  
